@@ -28,7 +28,7 @@ import com.bumptech.glide.request.target.SimpleTarget;
 
 import java.io.IOException;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.Supplier;
 import ml.darinsdesign.drisian.adapters.ImagePagerAdapter;
 import ml.darinsdesign.drisian.data.WallData;

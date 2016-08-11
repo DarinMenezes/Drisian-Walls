@@ -21,8 +21,8 @@ import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
 
 import java.util.ArrayList;
 
-import eu.appydroid.BuildConfig;
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.BuildConfig;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.Supplier;
 import ml.darinsdesign.drisian.data.AuthorData;
 import ml.darinsdesign.drisian.fragments.FavFragment;

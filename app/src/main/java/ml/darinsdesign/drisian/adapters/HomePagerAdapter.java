@@ -5,7 +5,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.fragments.FeaturedFragment;
 import ml.darinsdesign.drisian.fragments.RandomFragment;
 

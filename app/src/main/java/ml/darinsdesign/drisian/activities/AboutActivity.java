@@ -12,7 +12,7 @@ import android.view.MenuItem;
 
 import java.util.ArrayList;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.Supplier;
 import ml.darinsdesign.drisian.adapters.AboutAdapter;
 import ml.darinsdesign.drisian.data.AuthorData;

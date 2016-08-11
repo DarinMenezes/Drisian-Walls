@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.Supplier;
 import ml.darinsdesign.drisian.activities.MainActivity;
 import ml.darinsdesign.drisian.activities.WallActivity;

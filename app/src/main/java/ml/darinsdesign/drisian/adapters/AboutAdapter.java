@@ -14,7 +14,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 
 public class AboutAdapter extends RecyclerView.Adapter<AboutAdapter.ViewHolder> {
 

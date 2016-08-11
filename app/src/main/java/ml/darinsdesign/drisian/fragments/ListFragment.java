@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.Supplier;
 import ml.darinsdesign.drisian.adapters.ListAdapter;
 import ml.darinsdesign.drisian.data.AuthorData;

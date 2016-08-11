@@ -18,7 +18,7 @@ import java.util.Comparator;
 import java.util.Date;
 import java.util.Locale;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.Supplier;
 import ml.darinsdesign.drisian.adapters.ListAdapter;
 import ml.darinsdesign.drisian.data.WallData;

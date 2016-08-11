@@ -8,7 +8,7 @@ import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.support.v7.widget.Toolbar;
 import android.view.animation.DecelerateInterpolator;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.adapters.SearchAdapter;
 
 public class SearchActivity extends AppCompatActivity {

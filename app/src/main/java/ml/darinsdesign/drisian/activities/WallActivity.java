@@ -20,7 +20,7 @@ import android.widget.Toast;
 
 import com.google.android.flexbox.FlexboxLayout;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.Supplier;
 import ml.darinsdesign.drisian.adapters.ImagePagerAdapter;
 import ml.darinsdesign.drisian.data.WallData;

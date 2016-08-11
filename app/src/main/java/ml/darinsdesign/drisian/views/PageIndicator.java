@@ -24,7 +24,7 @@ import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
 import android.view.View;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.utils.ConversionUtils;
 
 public class PageIndicator extends View implements ViewPager.OnPageChangeListener {

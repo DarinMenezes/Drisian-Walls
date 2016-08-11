@@ -17,7 +17,7 @@ import com.bumptech.glide.Glide;
 import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
 
-import eu.appydroid.R;
+import ml.darinsdesign.drisian.R;
 import ml.darinsdesign.drisian.Supplier;
 import ml.darinsdesign.drisian.activities.WallActivity;
 import ml.darinsdesign.drisian.data.WallData;
